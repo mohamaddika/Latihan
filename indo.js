@@ -1,1 +1,1 @@
-console.log(Bahasa Indonesia)
+console.log(Bahasa indonesia)
